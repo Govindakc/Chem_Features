@@ -107,7 +107,7 @@ class Features_Generations:
 
     def toPHYC(self):
         """
-        Calculates the phisiochemical properties
+        Calculates the phisiocochemical properties
         
         Parameters
         ----------
