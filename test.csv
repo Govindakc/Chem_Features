@@ -1,0 +1,10 @@
+,Label,Smiles,Subcell_Location,UniProt,row ID
+0,negative,Cc1cc(Nc2ncc(s2)C(=O)Nc2c(C)cccc2Cl)nc(n1)C,aggresome,P09769,189300
+1,negative,COc1cc(ccc1NC(=O)OC(C)(C)C)c1nn(c2c1c(N)ncn2)CCN1CCC(CC1)N(C)C,aggresome,P09769,189302
+2,negative,N[C@H]1CCCC[C@H]1Nc1ncc(c(n1)Nc1cccc(c1)n1nccn1)C(=O)N,aggresome,P09769,189304
+3,negative,CC(Oc1[nH]nc(c1)n1cnc2c1nc(cc2)N[C@H](c1ccc(cn1)F)C)C,aggresome,P09769,189308
+4,negative,O=C(N1CCN(CC1)Cc1sc2c(c1C)nc(nc2N1CCOCC1)c1cnc(nc1)N)[C@@H](O)C,aggresome,P09769,189306
+5,negative,Nc1ncnc2c1c(cn2C3CCNCC3)c4cccc(O)c4,aggresome,P09769,189276
+6,negative,CC(C)Oc1cc(n[nH]1)n2cnc3ccc(N[C@@H](C)c4ccc(F)cn4)nc23,aggresome,P09769,189284
+7,negative,NC1=C2C(=NC=N1)N(N=C2C1=CC=C(OC2=CC=CC=C2)C=C1)[C@@H]1CCCN(C1)C(=O)C=C,aggresome,P09769,189320
+8,negative,Cc1cc(Nc2ncc(s2)C(=O)Nc3c(C)cccc3Cl)nc(C)n1,aggresome,P09769,189288
